@@ -2,7 +2,8 @@
 This is a script written in BASH for creating timestamped RSpec HTML output files.
 
 ## Setup
-Requires a Rails application that is running the RSpec gem. ..
+Requires a Rails application that is running the RSpec gem. 
+
 Move file to ~/bin. 
 Type chmod +x RSpecHTML.sh to allow the script to be run as RSpecHTML.sh from any directory.
 
