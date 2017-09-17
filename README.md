@@ -1,4 +1,5 @@
 # RSpecHTMLResults
+This is a script written in BASH for creating timestamped RSpec HTML output files.
 
 ## Setup
 Requires a Rails application that is running the RSpec gem. 
